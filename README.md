@@ -41,15 +41,11 @@ Execute o serviço no Docker, conectando-o à rede compartilhada.
 docker network connect shared-network bff-service-app-1
 ```
 
-### 6. Acessar o serviço principal
-O serviço principal estará acessível em:  
-[http://localhost:3001](http://localhost:3001)
-
-### 7. Acessar o playground graph ql para executar as requisições:
+### 6. Acessar o playground graph ql para executar as requisições:
 O serviço principal estará acessível em:  
 [http://localhost:3001/api/graphql](http://localhost:3001/api/graphql)
 
-### 8. Executar a criação de um usuário:
+### 7. Executar a criação de um usuário:
 
 ```bash
 mutation {
