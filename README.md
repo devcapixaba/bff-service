@@ -47,7 +47,7 @@ O serviço principal estará acessível em:
 
 ### 7. Acessar o playground graph ql para executar as requisições:
 O serviço principal estará acessível em:  
-[http://localhost:3001/api/graphql](http://localhost:3000/api/graphql)
+[http://localhost:3001/api/graphql](http://localhost:3001/api/graphql)
 
 ### 8. Executar a criação de um usuário:
 
