@@ -1,5 +1,5 @@
 
-# 📖 README - Main MS
+# 📖 README - BFF Service
 
 Este é o serviço bff integrado ao **Main ms** para fornecer a funcionalidade desejada.
 
