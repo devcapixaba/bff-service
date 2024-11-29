@@ -6,7 +6,7 @@ import { firstValueFrom } from 'rxjs';
 export class UserService {
   constructor(private readonly httpService: HttpService) {}
 
-  private readonly baseUrl = 'http://main-ms-app-1:3000/users';
+  private readonly baseUrl = 'http://main-ms-app-1:3000/api/users';
 
   async getUserById(id: string): Promise<any> {
     const response = await firstValueFrom(
