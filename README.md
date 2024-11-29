@@ -62,7 +62,7 @@ mutation {
 
 ```bash
 query {
-  user(id: "22c25597-f0c2-4114-88bf-df6a613f6fd8") {
+  getUserById(id: "22c25597-f0c2-4114-88bf-df6a613f6fd8") {
     id
     name
     email
